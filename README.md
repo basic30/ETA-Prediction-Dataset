@@ -84,7 +84,6 @@ The dataset structure is inspired by publicly available transport datasets from 
 ## 👨‍💻 Authors
 
 - Snahasish Dey  
-- Dipankar Basu  
 - Sneha Majumder  
 - Srijit Bhattacharya  
 
